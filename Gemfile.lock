@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    eventmachine (0.12.10)
+    percy (1.4.2)
+      eventmachine (>= 0.12.10)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  percy
